@@ -294,7 +294,7 @@ nav ul li a.active::after {
 }
 
 .contenido form textarea {
-    min-height: 130px;
+    min-height: 90px;
     resize: vertical;
 }
 
